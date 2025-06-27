@@ -1,20 +1,24 @@
 # House-Hunt-finding-your-perfect-rental-home
 **Househun**t is a full-stack web application that provides users with a seamless platform to search for rental homes, view detailed listings, and connect with property owners or landlords. It is designed to simplify the home rental process by offering intuitive features like location-based search, filtering by price and amenities, user accounts, and direct messaging. The platform empowers users to find their perfect rental home with ease, while also enabling landlords to list and manage their properties efficiently. Househunt aims to make the rental experience smarter, faster, and more user-friendly.
 📌 Features
+
 👤 User Functionality
 Sign up and log in securely
 Register complaints with details (address, pincode, etc.)
 View status of submitted complaints
 Chat with assigned agent
-🧑‍💼 Admin Portal
+
+🧑‍💼 Rental Portal
 View all users (Rental/Owner)
 Assign complaints to agents
 View status and history of all complaints
 Delete user data if necessary
-👨‍🔧 Agent Dashboard
+
+👨‍🔧 Owner Dashboard
 View assigned complaints
 Update complaint statuses
 Engage in conversation via messaging
+
 🛠️ Tech Stack
 Frontend:
 React JS
@@ -28,6 +32,7 @@ MongoDB with Mongoose
 CORS, Body-Parser
 Database:
 MongoDB Atlas (cloud-hosted NoSQL DB)
+
 🗂️ Project Structure
 ResolveNow/ │ ├── backend/ # Express + MongoDB backend │ ├── config.js # MongoDB connection │ ├── index.js # All API endpoints │ └── Schema.js # Mongoose schemas │ ├── frontend/ # React frontend │ ├── src/ │ │ ├── components/ # UI components (user, admin, agent) │ │ ├── App.js │ │ ├── App.css │ │ └── index.js │ └── public/ │ │ │ ├── index.html │ ├── .env # (Optional) For environment variables └── README.md
 
