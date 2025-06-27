@@ -1,5 +1,6 @@
 # House-Hunt-finding-your-perfect-rental-home
 **Househun**t is a full-stack web application that provides users with a seamless platform to search for rental homes, view detailed listings, and connect with property owners or landlords. It is designed to simplify the home rental process by offering intuitive features like location-based search, filtering by price and amenities, user accounts, and direct messaging. The platform empowers users to find their perfect rental home with ease, while also enabling landlords to list and manage their properties efficiently. Househunt aims to make the rental experience smarter, faster, and more user-friendly.
+
 📌 Features
 
 👤 User Functionality
